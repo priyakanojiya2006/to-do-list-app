@@ -1,0 +1,78 @@
+#btn {
+    display: flex;
+    border-radius: 150px;
+    border: 0px;
+    outline: 0px;
+    background-color: rgb(172, 172, 248);
+   
+    cursor: pointer;
+    color: white;
+    display: inline;
+    margin: 10PX;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 30px;
+    height: 30px;
+    font-size: x-large;
+    font-weight: 200;
+    align-items: center;
+   justify-content: center;
+   
+   
+
+   
+    
+}
+
+ul li{
+    list-style: none;
+    
+}
+
+UL {
+    display: inline;
+}
+
+#add{
+    display: inline;
+
+}
+
+img{
+    width: 2%;
+    height: 2%;
+    gap: 15px;
+margin-left: 10px;
+cursor: pointer;
+}
+
+input[type='text']{
+    outline: none;
+    border: 1px solid grey;
+}
+
+a {
+    text-decoration: none;
+    color: grey;
+   font-size: smaller;
+   
+    
+
+}
+#upd{
+    display: flex;
+    margin: 2px;
+    bottom: 33px;
+    right: 100px;
+ 
+    outline: none;
+    background-color: rgb(192, 192, 247);
+    color: white;
+    border: none;
+    position: fixed;
+    align-items: center;
+    justify-content: center;
+
+}  
+  
