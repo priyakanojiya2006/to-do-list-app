@@ -12,8 +12,8 @@
     position: fixed;
     bottom: 20px;
     right: 20px;
-    width: 100px;
-    height: 100px;
+    width: 50px;
+    height: 50px;
     font-size: x-large;
     font-weight: 200;
     align-items: center;
@@ -40,8 +40,8 @@ UL {
 }
 
 img{
-    width: 100px;
-    height: 100px;
+    width: 50px;
+    height: 50px;
     gap: 15px;
 margin-left: 10px;
 cursor: pointer;
@@ -57,7 +57,7 @@ input[type='text']{
 a {
     text-decoration: none;
     color: grey;
-   font-size: smaller;
+   font-size: x-large;
    
     
 
@@ -68,7 +68,7 @@ a {
     bottom: 33px;
     right: 100px;
     width:100px;
-    height:100px;
+    height:50px;
  
     outline: none;
     background-color: rgb(192, 192, 247);
@@ -80,4 +80,5 @@ a {
 
 }  
   
+
 
