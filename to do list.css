@@ -12,8 +12,8 @@
     position: fixed;
     bottom: 20px;
     right: 20px;
-    width: 90px;
-    height: 90px;
+    width: 80px;
+    height: 80px;
     font-size: xx-large;
     font-weight: 300;
     align-items: center;
@@ -40,8 +40,8 @@ Ul {
 }
 
 img{
-    width: 16px;
-    height: 16px;
+    width: 19px;
+    height: 19px;
     gap: 15px;
 margin-left: 10px;
 cursor: pointer;
@@ -52,7 +52,7 @@ input[type='text']{
     border: 1px solid grey;
     width: 150px;
     height:40px;
-    border-radius:20px;
+    border-radius:5px;
 }
 
 a {
@@ -78,9 +78,11 @@ a {
     position: fixed;
     align-items: center;
     justify-content: center;
+    border-radis:5px;
 
 }  
   
+
 
 
 
