@@ -7,7 +7,6 @@
    
     cursor: pointer;
     color: white;
-    display: inline;
     margin: 10PX;
     position: fixed;
     bottom: 20px;
@@ -40,8 +39,8 @@ Ul {
 }
 
 img{
-    width: 19px;
-    height: 19px;
+    width: 21px;
+    height: 21px;
     gap: 15px;
 margin-left: 10px;
 cursor: pointer;
@@ -78,10 +77,12 @@ a {
     position: fixed;
     align-items: center;
     justify-content: center;
-    border-radis:5px;
+    border-radius:5px;
+    font-size: x-large;
 
 }  
   
+
 
 
 
