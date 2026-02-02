@@ -40,8 +40,8 @@ Ul {
 }
 
 img{
-    width: 10px;
-    height: 10px;
+    width: 16px;
+    height: 16px;
     gap: 15px;
 margin-left: 10px;
 cursor: pointer;
@@ -51,8 +51,8 @@ input[type='text']{
     outline: none;
     border: 1px solid grey;
     width: 150px;
-    height:30px;
-    border-radius:50px;
+    height:40px;
+    border-radius:20px;
 }
 
 a {
@@ -81,6 +81,7 @@ a {
 
 }  
   
+
 
 
 
